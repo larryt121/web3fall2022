@@ -1,0 +1,42 @@
+
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.pink {
+	background-color: pink;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.col-8 {
+	display: grid;
+	height: 35vh;
+}
+
+.col-6 {
+	display: grid;
+	height: 35vh;
+}
+
+.col-4 {
+	display: grid;
+	height: 35vh;
+}
